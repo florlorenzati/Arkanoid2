@@ -1,0 +1,112 @@
+{
+    "frames": [
+        {
+            "filename": "jugador",
+            "frame": {
+                "w": 130,
+                "h": 50,
+                "x": 0,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "ladrillo6",
+            "frame": {
+                "w": 56,
+                "h": 33,
+                "x": 0,
+                "y": 50
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "ladrillo1",
+            "frame": {
+                "w": 56,
+                "h": 33,
+                "x": 56,
+                "y": 50
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "ladrillo2",
+            "frame": {
+                "w": 56,
+                "h": 33,
+                "x": 0,
+                "y": 83
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "ladrillo3",
+            "frame": {
+                "w": 56,
+                "h": 33,
+                "x": 56,
+                "y": 83
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "ladrillo4",
+            "frame": {
+                "w": 56,
+                "h": 33,
+                "x": 0,
+                "y": 116
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "ladrillo5",
+            "frame": {
+                "w": 56,
+                "h": 33,
+                "x": 56,
+                "y": 116
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "bola",
+            "frame": {
+                "w": 34,
+                "h": 34,
+                "x": 130,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        }
+    ],
+    "meta": {
+        "description": "Atlas generado con Atlas Packer Gamma V2",
+        "web": "https://gammafp.github.io/atlas-packer-phaser/"
+    }
+}
